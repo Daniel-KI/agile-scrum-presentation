@@ -73,4 +73,4 @@ The interaction of these three components forms the life cycle of the SCRUM proj
 - The final step of every Sprint cycle is the stage of product estimation. The product is evaluated in accordance with the team’s definition of “Done” and provided to the customer to obtain his feedback. Then a new sprint starts, and the cycle repeats.
 
 
-**I was happy to share with you an overview of AGILE and Scrum. I hope you learned something new.**
+**I was happy to share with you an overview of AGILE and Scrum. I hope you learned something new!**
