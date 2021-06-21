@@ -11,6 +11,6 @@
   - Life Cycle
 
 # Links
-- Presentation: https://daniel-ki-agile-scrum-presentation.netlify.app/
-- Transcript: ...
+- Presentation: https://daniel-ki.github.io/agile-scrum-presentation/
+- Transcript: https://daniel-ki.github.io/agile-scrum-presentation/presentation
 - Video: ...
