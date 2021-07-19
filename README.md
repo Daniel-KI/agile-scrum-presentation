@@ -1,5 +1,7 @@
 # Agile and Scrum (presentation) 📝
 
+![image](https://user-images.githubusercontent.com/75856314/126192589-e7f14e02-061a-4e6a-82d5-34086bb552dc.png)
+
 ## Сontent:
 - Aglie
   - Agile manifesto (four major principles)
